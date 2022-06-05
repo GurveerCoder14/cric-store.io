@@ -1,0 +1,14 @@
+.btn{
+    height: 51px;
+width: 71px;
+margin: 24px 2px;
+background-color:white;
+color: blue;
+border-radius: 5px;
+border: 3px solid orange;
+font-family: 'Koulen', cursive;
+}
+.btn:hover{
+    font-weight: 900;
+    cursor: pointer;
+}
